@@ -72,4 +72,3 @@ Explore the `generative_ai.ipynb` Jupyter Notebook to experiment with generative
 
 - Thanks to [OpenAI](https://openai.com) for providing their powerful language models.
 - Thanks to [Google PALM](https://google.com/paml) for enabling AI-powered document interactions.
-
